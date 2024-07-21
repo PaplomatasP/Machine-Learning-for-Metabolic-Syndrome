@@ -1,3 +1,7 @@
+MDPI and ACS Style
+Paplomatas, P.; Rigas, D.; Sergounioti, A.; Vrahatis, A. Enhancing Metabolic Syndrome Detection through Blood Tests Using Advanced Machine Learning. Eng 2024, 5, 1422-1434. https://doi.org/10.3390/eng5030075
+
+
 # Enhancing Metabolic Syndrome Detection through Blood Tests Using Advanced Machine Learning 
 
 The increasing prevalence of Metabolic Syndrome (MetS), a serious condition associated with elevated risks of cardiovascular diseases, stroke, and type 2 diabetes, underscores the urgent need for effective diagnostic tools. This research carefully examines the effectiveness of 16 diverse machine learning (ML) models in predicting Metabolic Syndrome (MetS), a multifaceted health condition linked to increased risks of heart disease, stroke, and type 2 diabetes.
